@@ -8,7 +8,7 @@ A Calculator Web Application built using **HTML**, **CSS** and **JavaScript** th
 
 ## Demo
 
-https://abhigyan-srivastava.github.io/Online_Banking_System/
+https://abhigyan-srivastava.github.io/CalculatorWebApplication/
 
 ## Author
 
